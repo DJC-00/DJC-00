@@ -4,7 +4,7 @@
 - I am a current student at Coding Dojo and I will be graduating on June 1st
 - Aspiring full stack engineer
 - Love working with and learning new technologies
-- I live for troubleshooting and fixing issues
+- I live for troubleshooting and fixing bugs
 
 <!---
 DJC-00/DJC-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
